@@ -11,5 +11,5 @@ My second assignments with CFG
 >[assignement3_mysql.sql]
 >  - to demonstrate knowledge of using MySQL.
 
-![Image alt](https://github.com/ViktoriiaMorozenko/first_assignment/blob/main/Screenshot%202024-05-19%20232646.png)
+![Image alt](https://github.com/ViktoriiaMorozenko/CFG-Assignments/blob/assignment3_sql/assignment3_scenario.jpg)
    
